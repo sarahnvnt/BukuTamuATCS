@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+}
+body {
+  font-family: "Poppins";
+  font-size: 15px;
+}
+.container-fluid {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+/* Modify brand and text color */
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: rgb(23, 83, 94);
+}
